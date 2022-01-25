@@ -76,30 +76,30 @@
       "id": 9,
       "name_category": "Easy",
       "title": "Starter Tips (Part 1)",
-      "image": "https://media.suara.com/pictures/480x260/2020/06/26/57007-logo-mobile-legends-youtube-mobile-legends-bang-bang.jpg",
-      "description": "Ini contoh description guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi",
+      "image": "https://sc.filehippo.net/images/t_app-cover-m,f_auto/p/1a5ed9e7-2650-4cbe-a14e-2a12e4cc492e/3413339566/internet-cafe-simulator-screenshot.jpg",
+      "description": "This tips very usefull",
       "link": "https://hanyauntuklirik.blogspot.com/2022/01/starter-tips-part-1.html"
     },
     {
       "id": 8,
       "name_category": "Medium",
-      "title": "Mobile Legend Update",
-      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg",
-      "description": "Ini contoh description guide/tutorial ka tiga pada json online, silahkan upload file html di hosting",
+      "title": "Starter Tips (Part 2)",
+      "image": "https://cdn.dhiar.com/wp-content/uploads/2020/01/Internet-Cafe-Simulator-00001.jpg",
+      "description": "This tips very usefull",
       "link": "https://hanyauntuklirik.blogspot.com/2022/01/starter-tips-part-2.html"
     },
 	  {
       "id": 7,
       "name_category": "Easy",
-      "title": "5 Tips Before Playing Internet Cafe Simulator",
-      "image": "https://api.duniagames.co.id/api/content/upload/file/14862151371578299121.jpg",
-      "description": "To avoid confusing during a playthrough, take a look at these five steps below.",
+      "title": "Daily Routine",
+      "image": "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/1a5ed9e7-2650-4cbe-a14e-2a12e4cc492e/721184452/internet-cafe-simulator-screenshot.jpg",
+      "description": "This tips very usefull",
       "link": "https://hanyauntuklirik.blogspot.com/2022/01/daily-routine.html"
     },
 	  {
       "id": 3,
       "name_category": "Easy",
-      "title": "5 Tips Before Playing Internet Cafe Simulator",
+      "title": "Early Gamer",
       "image": "https://api.duniagames.co.id/api/content/upload/file/14862151371578299121.jpg",
       "description": "To avoid confusing during a playthrough, take a look at these five steps below.",
       "link": "https://hanyauntuklirik.blogspot.com/2022/01/early-game.html"
@@ -107,7 +107,7 @@
 	  {
       "id": 5,
       "name_category": "Easy",
-      "title": "5 Tips Before Playing Internet Cafe Simulator",
+      "title": "Mid Game",
       "image": "https://api.duniagames.co.id/api/content/upload/file/14862151371578299121.jpg",
       "description": "To avoid confusing during a playthrough, take a look at these five steps below.",
       "link": "https://hanyauntuklirik.blogspot.com/2022/01/mid-game.html"
@@ -115,7 +115,7 @@
 	  {
       "id": 4,
       "name_category": "Easy",
-      "title": "5 Tips Before Playing Internet Cafe Simulator",
+      "title": "Late Game",
       "image": "https://api.duniagames.co.id/api/content/upload/file/14862151371578299121.jpg",
       "description": "To avoid confusing during a playthrough, take a look at these five steps below.",
       "link": "https://hanyauntuklirik.blogspot.com/2022/01/late-game.html"
@@ -123,7 +123,7 @@
 	  {
       "id": 3,
       "name_category": "Easy",
-      "title": "5 Tips Before Playing Internet Cafe Simulator",
+      "title": "Pawn Shop",
       "image": "https://api.duniagames.co.id/api/content/upload/file/14862151371578299121.jpg",
       "description": "To avoid confusing during a playthrough, take a look at these five steps below.",
       "link": "https://hanyauntuklirik.blogspot.com/2022/01/pawn-shop.html"
@@ -131,7 +131,7 @@
 	  {
       "id": 2,
       "name_category": "Easy",
-      "title": "5 Tips Before Playing Internet Cafe Simulator",
+      "title": "Temperature",
       "image": "https://api.duniagames.co.id/api/content/upload/file/14862151371578299121.jpg",
       "description": "To avoid confusing during a playthrough, take a look at these five steps below.",
       "link": "https://hanyauntuklirik.blogspot.com/2022/01/temperature.html"
@@ -139,7 +139,7 @@
 	  {
       "id": 1,
       "name_category": "Easy",
-      "title": "5 Tips Before Playing Internet Cafe Simulator",
+      "title": "Misc & Bugs",
       "image": "https://api.duniagames.co.id/api/content/upload/file/14862151371578299121.jpg",
       "description": "To avoid confusing during a playthrough, take a look at these five steps below.",
       "link": "https://hanyauntuklirik.blogspot.com/2022/01/misc-bugs.html"
